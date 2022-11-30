@@ -1,0 +1,13 @@
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\bin\Debug\netcoreapp3.1\Mittprojekt.exe
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\bin\Debug\netcoreapp3.1\Mittprojekt.deps.json
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\bin\Debug\netcoreapp3.1\Mittprojekt.runtimeconfig.json
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\bin\Debug\netcoreapp3.1\Mittprojekt.runtimeconfig.dev.json
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\bin\Debug\netcoreapp3.1\Mittprojekt.dll
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\bin\Debug\netcoreapp3.1\Mittprojekt.pdb
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.csprojAssemblyReference.cache
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.csproj.CoreCompileInputs.cache
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.AssemblyInfoInputs.cache
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.AssemblyInfo.cs
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.dll
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.pdb
+C:\Users\fabian.favoryt\source\repos\Mittprojekt\Mittprojekt\obj\Debug\netcoreapp3.1\Mittprojekt.genruntimeconfig.cache

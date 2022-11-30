@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\fabian.favoryt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\fabian.favoryt\\.nuget\\packages"
+    ]
+  }
+}
